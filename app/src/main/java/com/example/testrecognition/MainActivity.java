@@ -1,4 +1,4 @@
-package com.example.testrecognition;
+package com.example.testrecognition
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
